@@ -204,7 +204,7 @@ extensions = [
   "c"
   "cc"
   "cfc"
-  "cfm"
+  "cfm", "cfml"
   "clj"
   "cljs"
   "coffee"
