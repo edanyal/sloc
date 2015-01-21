@@ -64,7 +64,7 @@ getCommentExpressions = (lang) ->
       start = /\{-/
       stop  = /-\}/
 
-    when "html", "htm", "svg", "xml"
+    when "cfm", "cfc", "html", "htm", "svg", "xml"
       start = /<\!--/
       stop  = /-->/
 
@@ -203,6 +203,8 @@ slocModule = (code, lang, opt={}) ->
 extensions = [
   "c"
   "cc"
+  "cfc"
+  "cfm"
   "clj"
   "cljs"
   "coffee"

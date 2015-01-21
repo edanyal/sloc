@@ -221,6 +221,7 @@ type for all files in the project.
 ## Supported languages
 
 - CoffeeScript
+- ColdFusion
 - C / C++
 - C#
 - Clojure / ClojureScript
