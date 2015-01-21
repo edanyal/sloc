@@ -239,7 +239,7 @@ module.exports =
       single: 1
     }
     {
-      names: ["html", "htm"]
+      names: ["html", "htm", "cfm", "cfml"]
       code:
         """
         <html>

@@ -64,7 +64,7 @@ getCommentExpressions = (lang) ->
       start = /\{-/
       stop  = /-\}/
 
-    when "cfm", "cfc", "html", "htm", "svg", "xml"
+    when "cfm", "cfml", "cfc", "html", "htm", "svg", "xml"
       start = /<\!--/
       stop  = /-->/
 
