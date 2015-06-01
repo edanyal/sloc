@@ -238,6 +238,7 @@ type for all files in the project.
 - Java
 - JavaScript
 - Julia
+- JSON
 - Lua
 - LiveScript
 - Nix
@@ -254,6 +255,7 @@ type for all files in the project.
 - Scala
 - SVG
 - Swift
+- T-SQL
 - Typescript
 - Visual Basic
 - Yaml
